@@ -14,6 +14,6 @@ Conexión a Internet es requerida para poder descargar dependencias de cada uno 
 Una vez se han instalado las herramientas, es necesario descargar algunas imagenes de Docker y dependencias de Maven. Para ello ejecutamos los siguientes comandos:
 
 1. docker pull mongo:3.6
-2. git clone https://github.com/EventosJEspanol/latin-america-micro-profile.git
+2. git clone https://github.com/EventosJEspanol/latin-america-mp-hol.git
 3. cd latin-america-micro-profile
 4. mvn clean package
