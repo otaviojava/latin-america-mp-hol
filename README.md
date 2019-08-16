@@ -15,5 +15,5 @@ Una vez se han instalado las herramientas, es necesario descargar algunas imagen
 
 1. docker pull mongo:3.6
 2. git clone https://github.com/EventosJEspanol/latin-america-mp-hol.git
-3. cd latin-america-micro-profile
+3. cd latin-america-mp-hol
 4. mvn clean package
