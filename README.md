@@ -1,6 +1,6 @@
 # HOL Creando Microservicios con MicroProfile
 
-== Requerimientos de sistema
+## Requerimientos de sistema
 
 Conexión a Internet es requerida para poder descargar dependencias de cada uno de los microservicios y para su posterior despliegue en la nube. Por favor instalar las siguientes herramientas para poder realizar el taller:
 
